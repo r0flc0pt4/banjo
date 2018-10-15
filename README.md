@@ -4,7 +4,7 @@
 [![Software License](https://img.shields.io/badge/License-MPL--2.0-green.svg)](https://github.com/nsheremet/banjo/blob/master/LICENSE.md)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/nsheremet/banjo)
 [![Coverage Status](http://codecov.io/github/nsheremet/banjo/coverage.svg?branch=master)](http://codecov.io/github/nsheremet/banjo?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nsheremet/banjo)](https://goreportcard.com/report/github.com/nsheremet/banjo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nsheremet/banjo)](https://goreportcard.com/report/github.com/nsheremet/banjo) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/banjo.svg)](https://www.guardrails.io)
 
 **banjo** it's a simple web framework for building simple web applications
 
